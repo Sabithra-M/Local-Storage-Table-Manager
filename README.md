@@ -12,4 +12,7 @@ A simple and responsive web application that allows users to **add**, **display*
 
 # Live Demo
 
-[Visite Website](https://sabithra-m.github.io/Local-Storage-Table-Manager/)
+[Visit Website](https://sabithra-m.github.io/Local-Storage-Table-Manager/)
+
+# Preview
+![Local Storage UI](local-storage-table-manager.png)
