@@ -14,5 +14,17 @@ A simple and responsive web application that allows users to **add**, **display*
 
 [Visit Website](https://sabithra-m.github.io/Local-Storage-Table-Manager/)
 
-# Preview
+# 📸 Preview
 ![Local Storage UI](local-storage-table-manager.png)
+
+# 🛠️ Tech Stack
+
+- 🌐 HTML
+- 🎨 CSS
+- ⚡ JavaScript
+
+# ▶️ How to Run
+
+1. Clone the repository
+2. Open the project folder
+3. Run "index.html" in your browser
