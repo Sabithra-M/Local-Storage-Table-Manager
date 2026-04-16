@@ -27,4 +27,22 @@ A simple and responsive web application that allows users to **add**, **display*
 
 1. Clone the repository
 2. Open the project folder
-3. Run "index.html" in your browser
+3. Run **index.html** in your browser
+
+# 📚 What I Learned
+
+- 💡 Working with **Local Storage API**
+- 🔄 Using **JSON.stringify() & JSON.parse()**
+- 🧩 **DOM manipulation** and event handling
+- 📱 Building **responsive web design**
+
+# Future Improvements
+- ✏️ Add **edit/update functionality**
+- 🎯 Improve **UI/UX design**
+- ✅ Add **form validation**
+
+# 👩‍💻 Author
+**Sabithra M**
+
+*If you like this project, dont'forget to star the repository!*
+
